@@ -36,3 +36,8 @@ app.post("/user", (req, res) => {
 
   res.send({ status: "User created", name, location });
 });
+
+//capstone
+//35.188.120.238
+//root
+//
